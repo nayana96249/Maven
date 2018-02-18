@@ -6,6 +6,9 @@ public class MavenTest {
   @Test
   public void f() 
   {
-	  
+	  System.out.println("Avinash");
+	  System.out.println("Avinash");
+	  System.out.println("Avinash");
+	  System.out.println("Avinash ");
   }
 }
