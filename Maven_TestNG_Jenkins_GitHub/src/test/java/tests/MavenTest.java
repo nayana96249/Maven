@@ -9,6 +9,6 @@ public class MavenTest {
 	  System.out.println("Avinash");
 	  System.out.println("Avinas  h");
 	  System.out.println("Avinash"  );
-	  System.out.println("Avinash ");
+	  System.out.println("Avinash   ");
   }
 }
