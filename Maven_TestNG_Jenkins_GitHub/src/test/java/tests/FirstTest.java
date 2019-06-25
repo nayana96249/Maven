@@ -6,9 +6,9 @@ public class FirstTest {
   @Test
   public void f() 
   {
-	  System.out.println("Harshal");
-	  System.out.println("Harshal");
-	  System.out.println("Harshal"); // this is test
+	  System.out.println("Nayna");
+	  System.out.println("Nayna");
+	  System.out.println("Nayna"); // this is test
 	  
 	  
   }
